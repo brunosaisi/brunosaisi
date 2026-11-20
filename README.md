@@ -57,9 +57,8 @@ Atualmente, dedica-se aos estudos em engenharia de software, sistemas embarcados
 
 **CAD & Prototipagem**
 <p>
-  ▰▰▰▰▰<img src="https://img.shields.io/badge/CAD_%26_3D_Modeling-0696D7?style=plastic&logo=autodesk&logoColor=white" alt="CAD" /></br>
-  ▰▰▰▰▰<img src="https://img.shields.io/badge/3D_Printing-FF6600?style=plastic&logo=prusa&logoColor=white
-" alt="3D Printing" />
+  ▰▰▰▰▰<img src="https://img.shields.io/badge/CAD_%26_3D_Modeling-0696D7?style=plastic&logo=Fusion&logoColor=white" alt="CAD" /></br>
+  ▰▰▰▰▰<img src="https://img.shields.io/badge/3D_Printing-FF6600?style=plastic&logo=Cura&logoColor=white" alt="3D Printing" />
 </p>
 
 ### 📫 Contato
