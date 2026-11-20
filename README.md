@@ -27,38 +27,38 @@ Atualmente, dedica-se aos estudos em engenharia de software, sistemas embarcados
 
 **Linguagens**
 <p>
-  ▰▰▰▰▰<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></br>
-  ▱▰▰▰▰<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></br>
-  ▱▱▰▰▰<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></br>
-  ▱▱▰▰▰<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" /></br>
-  ▱▱▱▰▰<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></br>
-  ▱▱▱▰▰<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></br>
-  ▱▱▱▰▰<img src="https://img.shields.io/badge//Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  ▰▰▰▰▰<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" /></br>
+  ▱▰▰▰▰<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" /></br>
+  ▱▱▰▰▰<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" /></br>
+  ▱▱▰▰▰<img src="https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white" alt="Shell Script" /></br>
+  ▱▱▱▰▰<img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" alt="C" /></br>
+  ▱▱▱▰▰<img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" /></br>
+  ▱▱▱▰▰<img src="https://img.shields.io/badge//Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
 </p>
 
 **Sistemas, Embarcados & Hardware**
 <p>
-  ▰▰▰▰▰<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></br>
-  ▱▰▰▰▰<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /></br>
-  ▱▱▰▰▰<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" /></br>
-  ▱▱▱▰▰<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></br>
-  ▱▱▱▱▰<img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel" />
+  ▰▰▰▰▰<img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white" alt="Arduino" /></br>
+  ▱▰▰▰▰<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=plastic&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /></br>
+  ▱▱▰▰▰<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white" alt="Arch Linux" /></br>
+  ▱▱▱▰▰<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" /></br>
+  ▱▱▱▱▰<img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux Kernel" />
 </p>
 
 **Mídia, Dados & Web**
 <p>
-  ▰▰▰▰▰<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></br>
-  ▰▰▰▰▰<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" /></br>
-  ▱▱▰▰▰<img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white" alt="p5.js" /></br>
-  ▱▱▱▱▰<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" /></br>
-  ▱▱▱▱▰<img src="https://img.shields.io/badge/GStreamer-2E2E2E?style=for-the-badge&logo=gstreamer&logoColor=white" alt="GStreamer" /></br>
-  ▱▱▱▱▰<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  ▰▰▰▰▰<img src="https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress&logoColor=white" alt="WordPress" /></br>
+  ▰▰▰▰▰<img src="https://img.shields.io/badge/WooCommerce-96588A?style=plastic&logo=woocommerce&logoColor=white" alt="WooCommerce" /></br>
+  ▱▱▰▰▰<img src="https://img.shields.io/badge/p5.js-ED225D?style=plastic&logo=p5dotjs&logoColor=white" alt="p5.js" /></br>
+  ▱▱▱▱▰<img src="https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white" alt="FFmpeg" /></br>
+  ▱▱▱▱▰<img src="https://img.shields.io/badge/GStreamer-2E2E2E?style=plastic&logo=gstreamer&logoColor=white" alt="GStreamer" /></br>
+  ▱▱▱▱▰<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 **CAD & Prototipagem**
 <p>
-  ▰▰▰▰▰<img src="https://img.shields.io/badge/CAD_%26_3D_Modeling-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="CAD" /></br>
-  ▰▰▰▰▰<img src="https://img.shields.io/badge/3D_Printing-FF6600?style=for-the-badge&logo=prusa&logoColor=white
+  ▰▰▰▰▰<img src="https://img.shields.io/badge/CAD_%26_3D_Modeling-0696D7?style=plastic&logo=autodesk&logoColor=white" alt="CAD" /></br>
+  ▰▰▰▰▰<img src="https://img.shields.io/badge/3D_Printing-FF6600?style=plastic&logo=prusa&logoColor=white
 " alt="3D Printing" />
 </p>
 
