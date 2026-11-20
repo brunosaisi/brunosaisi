@@ -1,12 +1,12 @@
-### Bruno Lopes Saisi
+## Bruno Lopes Saisi
 
-**Bacharel em Artes Visuais (Unesp, 2015) **
+** Bacharel em Artes Visuais (Unesp, 2015) **
 
-Iniciou sua trajetória profissional no design gráfico e desenvolvimento web frontend. Atuou na Editora Unesp na criação de identidades visuais , materiais editoriais e diagramação web em HTML e CSS. Paralelamente, teve seus primeiros contatos com eletrônica e microcontroladores (Arduino) no fablab Hacklab do Sesc Pompeia e integrou o grupo de pesquisa *Ciência, Arte e Tecnologia* da pós-graduação do IA/Unesp.
+Iniciou sua trajetória profissional no design gráfico e desenvolvimento web frontend. Atuou na Editora Unesp na criação de identidades visuais , materiais editoriais e diagramação web em HTML e CSS. Paralelamente, teve seus primeiros contatos com eletrônica e microcontroladores (Arduino) no fablab Hacklab do Sesc Pompeia e integrou o grupo de pesquisa *Ciência, Arte e Tecnologia* da pós-graduação do Instituto de Artes da Unesp.
 
 Após a graduação, fundou o atelier [Spraymental](https://spraymental.com), direcionando sua atuação para o desenho técnico 3D (CAD) e a produção tridimensional em escala (marcenaria, serralheria e impressão 3D), atendendo projetos autorais e demandas de arquitetura.
 
-Atualmente, dedica-se aos estudos em engenharia de software, sistemas embarcados e computação de baixo nível (em preparação para a **42**). Seus repositórios concentram projetos desenvolvidos na intersecção entre arte, instrumentação científica e tecnologia, abrangendo pipelines de vídeo em Linux, visão computacional e arquitetura web.
+Atualmente, dedica-se aos estudos em engenharia de software, sistemas embarcados e computação de baixo nível (em preparação para a **42**). Seus repositórios concentram projetos desenvolvidos na intersecção entre arte e tecnologia, abrangendo pipelines de vídeo em Linux, visão computacional e arquitetura web.
 
 ---
 
@@ -15,7 +15,7 @@ Atualmente, dedica-se aos estudos em engenharia de software, sistemas embarcados
 * 🔭 **[Gnomonster](https://github.com)** *(Shell / Linux Embarcado / C++)*
   Sistema de instrumentação para astrofotografia. Integra Raspberry Pi 5 (AstroArch), compilação de Kernel e Device Trees para sensores industriais (VEYE IMX462), controle de motores via OnStepX e pipeline de vídeo em tempo real com **GStreamer, FFmpeg e V4L2**.
 * 🌌 **[RAWAstroculling](https://github.com)** *(Python / Visão Computacional)*
-  Software de linha de comando para triagem de astrofotografias em formato RAW. Realiza a detecção de estrelas e o cálculo de excentricidade para filtrar capturas com erros de rastreamento a partir de limiares definidos pelo usuário.
+  Software para triagem de astrofotografias em formato RAW. Realiza a detecção de estrelas e o cálculo de excentricidade para filtrar capturas com erros de rastreamento a partir de limiares definidos pelo usuário.
 * 🖼️ **[Woockup](https://github.com)** *(PHP / JavaScript / p5.js)*
   Aplicação para WooCommerce que combina renderização 3D no navegador (WEBGL) com validação e precificação server-side em PHP, prevenindo adulteração de valores no carrinho e calculando dimensões volumétricas para frete.
 * 💻 **[Missão 42](https://github.com)** *(C / Shell / Lógica)*
