@@ -6,19 +6,19 @@ Iniciou sua trajetória profissional no design gráfico e desenvolvimento web fr
 
 Após a graduação, fundou o atelier [Spraymental](https://spraymental.com), direcionando sua atuação para o desenho técnico 3D (CAD) e a produção tridimensional em escala (marcenaria, serralheria e impressão 3D), atendendo projetos autorais e demandas de arquitetura.
 
-Atualmente, dedica-se aos estudos em engenharia de software, sistemas embarcados e computação de baixo nível (em preparação para a **42**). Seus repositórios concentram projetos desenvolvidos na intersecção entre arte e tecnologia, abrangendo pipelines de vídeo em Linux, visão computacional e arquitetura web.
+Atualmente, dedica-se aos estudos em engenharia de software, sistemas embarcados e computação de baixo nível. Seus repositórios concentram projetos desenvolvidos na intersecção entre arte e tecnologia, abrangendo pipelines de vídeo em Linux, visão computacional e arquitetura web.
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-* 🔭 **[Gnomonster](https://github.com)** *(Shell / Linux Embarcado / C++)*
+* 🔭 **[Gnomonster](https://github.com/brunosaisi/Gnomonster)** *(Shell / Linux Embarcado / C++)*
   Sistema de instrumentação para astrofotografia. Integra Raspberry Pi 5 (AstroArch), compilação de Kernel e Device Trees para sensores industriais (VEYE IMX462), controle de motores via OnStepX e pipeline de vídeo em tempo real com **GStreamer, FFmpeg e V4L2**.
-* 🌌 **[RAWAstroculling](https://github.com)** *(Python / Visão Computacional)*
+* 🌌 **[RAWAstroculling](https://github.com/brunosaisi/RAWAstroculling)** *(Python / Visão Computacional)*
   Software para triagem de astrofotografias em formato RAW. Realiza a detecção de estrelas e o cálculo de excentricidade para filtrar capturas com erros de rastreamento a partir de limiares definidos pelo usuário.
-* 🖼️ **[Woockup](https://github.com)** *(PHP / JavaScript / p5.js)*
+* 🖼️ **[Woockup](https://github.com/brunosaisi/Woockup)** *(PHP / JavaScript / p5.js)*
   Aplicação para WooCommerce que combina renderização 3D no navegador (WEBGL) com validação e precificação server-side em PHP, prevenindo adulteração de valores no carrinho e calculando dimensões volumétricas para frete.
-* 💻 **[Missão 42](https://github.com)** *(C / Shell / Lógica)*
+* 💻 **[Missão 42](https://github.com/brunosaisi/missao_42)** *(C / Shell / Lógica)*
   Repositório de exercícios e estudos voltados aos fundamentos da computação, algoritmos e programação em linguagem C.
 
 ---
